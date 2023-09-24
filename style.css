@@ -2,7 +2,7 @@
     position: sticky;
     top: 0px;
     background-color: rgb(213, 209, 217);
-    opacity: calc(50%);
+/*     opacity: calc(50%); */
   }
   .body {
     background-image: url("https://csri.ru/800/600/https/nypost.com/wp-content/uploads/sites/2/2020/06/shutterstock_college-grads.jpg?quality=80&strip=all");
@@ -11,5 +11,5 @@
   }
   .middle {
     background-color: rgb(213, 209, 217);
-    opacity: calc(20%);
+/*     opacity: calc(20%); */
   }
